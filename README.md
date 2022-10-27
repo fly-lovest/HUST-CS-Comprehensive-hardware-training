@@ -41,25 +41,25 @@
 
 用于译码，区分指令：
 
-![译码](E:\Desktop\说明文档\Learning\HUST-CS-Comprehensive-hardware-training\images\译码.png)
+![译码](https://raw.githubusercontent.com/fly-lovest/HUST-CS-Comprehensive-hardware-training/main/images/译码.png)
 
 用于产生控制信号：
 
-![控制信号](E:\Desktop\说明文档\Learning\HUST-CS-Comprehensive-hardware-training\images\控制信号.png)
+![控制信号](https://raw.githubusercontent.com/fly-lovest/HUST-CS-Comprehensive-hardware-training/main/images/控制信号.png)
 
 控制信号解释：
 
-![控制信号解释](E:\Desktop\说明文档\Learning\HUST-CS-Comprehensive-hardware-training\images\控制信号解释.png)
+![控制信号解释](https://raw.githubusercontent.com/fly-lovest/HUST-CS-Comprehensive-hardware-training/main/images/控制信号解释.png)
 
 
 
 ALU相关控制信号：
 
-![ALU控制信号](E:\Desktop\说明文档\Learning\HUST-CS-Comprehensive-hardware-training\images\ALU控制信号.png)
+![ALU控制信号](https://raw.githubusercontent.com/fly-lovest/HUST-CS-Comprehensive-hardware-training/main/images/ALU控制信号.png)
 
 
 
 benchmark测试效果：
 
-![benchmark测试效果动图](E:\Desktop\说明文档\Learning\HUST-CS-Comprehensive-hardware-training\images\benchmark测试效果动图.gif)
+![benchmark测试效果动图](https://raw.githubusercontent.com/fly-lovest/HUST-CS-Comprehensive-hardware-training/main/images/benchmark测试效果动图.gif)
 
